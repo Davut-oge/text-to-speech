@@ -22,8 +22,8 @@ This application converts PDF files to audiobooks (MP3 format) using text-to-spe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pdf-to-audiobook.git
-   cd pdf-to-audiobook
+   git clone https://github.com/Davut-oge/text-to-speech.git
+   cd text-to-speech
    ```
 2. Install the required Python packages:
    ```bash
