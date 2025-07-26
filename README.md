@@ -1,6 +1,8 @@
 # PDF to Audiobook Converter
 
-This application converts PDF files to audiobooks (MP3 format) using text-to-speech technology. It features both a graphical user interface (GUI) and a command-line interface (CLI).
+This application converts PDF files to audiobooks (MP3 format) using text-to-speech technology. 
+It features both a graphical user interface (GUI) and a command-line interface (CLI).
+
 
 ## Features
 
